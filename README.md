@@ -11,7 +11,7 @@ In this lab, I;
 gcloud compute instances create gcelab2 --machine-type e2-medium --zone=us-central1-a
 
 ## What I Learnt
-How to use gcloud CLI for for creating virtual machines
-How to use Cloud console to create a cloud instance
-Installing a web server to an instance
-Basic GCP project and zone configuration
+-How to use gcloud CLI for for creating virtual machines
+-How to use Cloud console to create a cloud instance
+-Installing a web server to an instance
+-Basic GCP project and zone configuration
